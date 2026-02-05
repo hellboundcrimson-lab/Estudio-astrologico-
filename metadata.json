@@ -1,0 +1,7 @@
+{
+  "name": "Akasha Zodiac Explorer",
+  "description": "An interactive astrological and galactic origin explorer combining traditional birth charts with Akashic records and Starseed lineage interpretations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
